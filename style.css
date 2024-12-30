@@ -1,0 +1,10 @@
+/*
+Theme Name: Book My Jobs Child
+Template: noo-jobmonster
+Author: Abhijith Somasekharan 
+Author URI: https://www.linkedin.com/in/abhijith-ps-118619142/
+Version: 4.0.1
+Description: A child theme for the JobMonster WordPress theme.updated functions 
+*/
+/* Import parent theme styles */
+@import url("../jobmonster/style.css");
